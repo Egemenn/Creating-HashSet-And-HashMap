@@ -1,0 +1,11 @@
+The program couldn't be executed, but I think I wrote the 
+codes right.
+I just want to show that I tried to do this program convenient
+for the OOP Basics. (Inheritance, Abstraction, Template vs.)
+For instance;
+As you see, when I write int as a type, compiler know that
+and change 'E' into int (Photo 1.jpg); 
+and then when I write char as a type, compiler know that 
+and change 'E' into char (Photo 2.Jpg)
+
+Besides, I put the uml diagram of the program in the file.
